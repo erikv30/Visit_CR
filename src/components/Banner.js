@@ -2,11 +2,13 @@ import React from 'react'
 import './Banner.css'
 import '../App.css'
 
-function Banner() {
+function Banner({title, text, container}) {
     return (
-        <div className='bann-container'>
-            <h1>¿Viajando a Costa Rica?</h1>
-            <p>Descubre las actividades y servicios para tu viaje</p>
+        <div className={container}>
+            <div className="bann-container">
+                <h1>{title}</h1>
+                <p>{text}</p>
+            </div>
         </div>
     )
 }

@@ -1,13 +1,16 @@
 import '../../App.css'
 import React from 'react'
 import Banner from '../Banner'
-import Cards from '../Cards'
+import CardsInicio from '../CardsInicio'
 
 function Inicio() {
     return (
         <div>
-           <Banner />
-           <Cards /> 
+           <Banner 
+           title='¿Viajando a Costa Rica?' 
+           text='Descubre las actividades y servicios para tu viaje'
+           container= 'banner-inicio' />
+           <CardsInicio /> 
         </div>
     )
 }
