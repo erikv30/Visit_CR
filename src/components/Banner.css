@@ -12,8 +12,8 @@
 }
 
 .banner-costarica {
-  background: url("../images/juliana-barquero-ANTavf3QXvY-unsplash.jpg") center
-    center/cover no-repeat;
+  background: url("../images/cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg")
+    center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -37,7 +37,7 @@
   object-fit: contain;
 }
 
-.banner-sevicios {
+.banner-servicios {
   background: url("../images/pexels-dziana-hasanbekava-5589439.jpg") center
     center/cover no-repeat;
   height: 100vh;

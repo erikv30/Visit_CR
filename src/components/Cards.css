@@ -5,7 +5,13 @@
 
 h1 {
   text-align: center;
+  color: #748859;
+}
+
+h4 {
+  text-align: center;
   color: #6f8b79;
+  font-size: 18px;
 }
 
 .cards__container {
@@ -67,7 +73,7 @@ h1 {
   font-size: 12px;
   font-weight: 700;
   color: #fff;
-  background-color: #6f8b79;
+  background-color: #748859;
   box-sizing: border-box;
 }
 
@@ -95,7 +101,7 @@ h1 {
 }
 
 .cards__item__text {
-  color: #252e48;
+  color: #6f8b79;
   font-size: 18px;
   line-height: 24px;
 }

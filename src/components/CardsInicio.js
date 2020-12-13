@@ -10,7 +10,7 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                        src='images/juliana-barquero-ANTavf3QXvY-unsplash.jpg'
+                        src='images/cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg'
                         text='Aprenda sobre Costa Rica y los lugares a donde puedes ir!'
                         label='Sobre Costa rica'
                         path='/costa-rica'
