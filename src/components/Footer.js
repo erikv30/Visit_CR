@@ -37,6 +37,23 @@ function Footer() {
                 </div>
                 <hr/>
                 <div className="row">
+                    <ul className='foot-socials'>
+                        <li className='col'>
+                            <i class="fab fa-twitter"></i>
+                        </li>
+                        <li className='col'>
+                            <i class="fab fa-facebook"></i>
+                        </li>
+                        <li className='col'>
+                            <i class="fab fa-instagram"></i>
+                        </li>
+                        <li className='col'>
+                            <i class="fab fa-linkedin"></i>
+                        </li>
+                    </ul>
+                </div>
+                <hr/>
+                <div className="row">
                     <p className='col-sm'>
                         &copy;{new Date().getFullYear()} Erick Esteban Vega Vargas
                     </p>

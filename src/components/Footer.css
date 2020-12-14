@@ -17,7 +17,7 @@
 .row {
   display: flex;
   flex-direction: row;
-  margin: 20px;
+  margin: 15px;
 }
 
 .foot-list {
@@ -37,6 +37,23 @@
 
 .foot-links:hover {
   color: #748859;
+}
+
+.foot-socials {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-gap: 20px;
+  list-style: none;
+  text-align: center;
+  width: 100%;
+  justify-content: space-around;
+  font-size: 25px;
+  color: #6f8b79;
+}
+
+.fab:hover {
+  color: #748859;
+  cursor: pointer;
 }
 
 .col-sm {
