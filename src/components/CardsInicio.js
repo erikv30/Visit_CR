@@ -10,19 +10,19 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                        src='images/cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg'
+                        src= {process.env.PUBLIC_URL + '/images/cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg'} 
                         text='Aprenda sobre Costa Rica y los lugares a donde puedes ir!'
                         label='Sobre Costa rica'
                         path='/costa-rica'
                         />
                         <CardItem 
-                        src='images/pexels-must-bee-kayak.jpg'
+                        src={process.env.PUBLIC_URL + '/images/pexels-must-bee-kayak.jpg'}
                         text='En Costa Rica los visitantes encontrarán todo lo que buscan: aventura, sol, playas, bosque, vida silvestre y bienestar y mucho más.'
                         label='Actividades'
                         path='/actividades'
                         />
                          <CardItem 
-                        src='images/pexels-dziana-hasanbekava-5589439.jpg'
+                        src={process.env.PUBLIC_URL + '/images/pexels-dziana-hasanbekava-5589439.jpg'}
                         text='Planifique su viaje: Encuentre donde hospedarse, guias turísticos, restaurantes, transporte y más...'
                         label='Servicios'
                         path='/servicios'

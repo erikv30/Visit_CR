@@ -11,17 +11,17 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                        src='images/max-bottinger-Ffo-atdAfiQ-unsplash.jpg'
+                        src={process.env.PUBLIC_URL + '/images/max-bottinger-Ffo-atdAfiQ-unsplash.jpg'}
                         text='Las provincias de Costa Rica y que se pude hacer en cada una de ellas.'
                         label='Provincias'
                         />
                         <CardItem 
-                        src='images/juliana-barquero-ANTavf3QXvY-unsplash.jpg'
+                        src={process.env.PUBLIC_URL + '/images/juliana-barquero-ANTavf3QXvY-unsplash.jpg'}
                         text='Disfruta de los volcanes, las playas del Pacífico y del Caribe, los bosques tropicales secos, húmedos y lluviosos y los paisajes de las selvas.'
                         label='Parques Nacionales'
                         />
                          <CardItem 
-                        src='images/samuel-charron-7C7jwyZnVlg-unsplash.jpg'
+                        src={process.env.PUBLIC_URL + '/images/samuel-charron-7C7jwyZnVlg-unsplash.jpg'}
                         text='Conozca el clima de las diferentes regiones del país.'
                         label='Clima'
                         />
