@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Visit_CR/static/css/main.10750298.chunk.css",
+    "main.js": "/Visit_CR/static/js/main.d7ebf47d.chunk.js",
+    "main.js.map": "/Visit_CR/static/js/main.d7ebf47d.chunk.js.map",
+    "runtime-main.js": "/Visit_CR/static/js/runtime-main.2d11b8a3.js",
+    "runtime-main.js.map": "/Visit_CR/static/js/runtime-main.2d11b8a3.js.map",
+    "static/js/2.2226b4eb.chunk.js": "/Visit_CR/static/js/2.2226b4eb.chunk.js",
+    "static/js/2.2226b4eb.chunk.js.map": "/Visit_CR/static/js/2.2226b4eb.chunk.js.map",
+    "index.html": "/Visit_CR/index.html",
+    "static/css/main.10750298.chunk.css.map": "/Visit_CR/static/css/main.10750298.chunk.css.map",
+    "static/js/2.2226b4eb.chunk.js.LICENSE.txt": "/Visit_CR/static/js/2.2226b4eb.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/Visit_CR/static/media/pexels-must-bee-kayak.cdfffde4.jpg",
+    "static/media/App.css": "/Visit_CR/static/media/stephanie-leblanc-JLMEZxBcXCU-unsplash.502b26c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d11b8a3.js",
+    "static/js/2.2226b4eb.chunk.js",
+    "static/css/main.10750298.chunk.css",
+    "static/js/main.d7ebf47d.chunk.js"
+  ]
+}
