@@ -6,7 +6,7 @@ function Cards() {
     return (
         <div className='cards'>
             <h1>Bienvenidos a Costa Rica</h1>
-            <h4>Costa Rica proporciona la combinación perfecta de relajación, aventura, cultura, buena cocina y fauna silvestre. Los visitantes encuentran en Costa Rica un paraíso de aventuras en el ambiente natural más bello y seguro. También es el hogar de cuatro sitios de Patrimonio Mundial certificada por la UNESCO.</h4>
+            <p className='desc'>Costa Rica proporciona la combinación perfecta de relajación, aventura, cultura, buena cocina y fauna silvestre. Los visitantes encuentran en Costa Rica un paraíso de aventuras en el ambiente natural más bello y seguro. También es el hogar de cuatro sitios de Patrimonio Mundial certificada por la UNESCO.</p>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">

@@ -6,7 +6,7 @@ function Cards() {
     return (
         <div className='cards'>
             <h1>Servicios</h1>
-            <h4>El planear un viaje puede ser abrumador algunas veces, y ser un poco difícil escoger entre las muchas actividades, lugares, experiencias y servicios disponibles para el viajero curioso.</h4>
+            <p className='desc'>El planear un viaje puede ser abrumador algunas veces, y ser un poco difícil escoger entre las muchas actividades, lugares, experiencias y servicios disponibles para el viajero curioso.</p>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">

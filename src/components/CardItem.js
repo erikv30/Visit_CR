@@ -10,7 +10,7 @@ function CardItem({path, label, src, text}) {
                         <img src={src} alt="travel img" className="cards__item__img"/>
                     </figure>
                     <div className="cards__item__info">
-                        <h5 className="cards__item__text">{text}</h5>
+                        <p className="cards__item__text">{text}</p>
                     </div>
                 </Link>
             </li>

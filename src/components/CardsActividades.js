@@ -6,7 +6,7 @@ function Cards() {
     return (
         <div className='cards'>
             <h1>Actividades</h1>
-            <h4>En Costa Rica encontrará muchas actividades estimulantes que toman lugar en el hábitat más verde y rodeado por fauna salvaje. Un paraíso para aquellos que buscan algo diferente: aventura, sol, playas, bosque, vida silvestre, bienestar y mucho más.</h4>
+            <p className='desc'>En Costa Rica encontrará muchas actividades estimulantes que toman lugar en el hábitat más verde y rodeado por fauna salvaje. Un paraíso para aquellos que buscan algo diferente: aventura, sol, playas, bosque, vida silvestre, bienestar y mucho más.</p>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">

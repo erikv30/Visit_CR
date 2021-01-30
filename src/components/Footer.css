@@ -1,7 +1,7 @@
 .footer {
   background-color: #eaf0e1;
   color: #748859;
-  padding-top: 3em;
+  padding-top: 3rem;
   position: relative;
   bottom: 0;
   width: 100%;
@@ -17,17 +17,18 @@
 .row {
   display: flex;
   flex-direction: row;
-  margin: 15px;
+  margin: 1rem;
 }
 
 .foot-list {
   display: grid;
   grid-template-columns: repeat(5, auto);
-  grid-gap: 20px;
+  grid-gap: 1.5rem;
   list-style: none;
   text-align: center;
   width: 100%;
   justify-content: space-around;
+  font-size: 1.3rem;
 }
 
 .foot-links {
@@ -36,26 +37,27 @@
 }
 
 .foot-links:hover {
-  color: #748859;
+  color: darkgreen;
 }
 
 .foot-socials {
   display: grid;
   grid-template-columns: repeat(5, auto);
-  grid-gap: 20px;
+  grid-gap: 1.5rem;
   list-style: none;
   text-align: center;
   width: 100%;
   justify-content: space-around;
-  font-size: 25px;
+  font-size: 2rem;
   color: #6f8b79;
 }
 
 .fab:hover {
-  color: #748859;
+  color: darkgreen;
   cursor: pointer;
 }
 
 .col-sm {
   color: #6f8b79;
+  font-size: 1.3rem;
 }

@@ -8,10 +8,19 @@ h1 {
   color: #748859;
 }
 
-h4 {
+p {
   text-align: center;
   color: #6f8b79;
-  font-size: 18px;
+}
+
+.desc {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  text-align: center;
+  font-size: 1.7rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .cards__container {
@@ -29,14 +38,14 @@ h4 {
 }
 
 .cards__items {
-  margin-bottom: 24px;
+  margin-bottom: 2rem;
 }
 
 .cards__item {
   display: flex;
   flex: 1;
   margin: 0 1rem;
-  border-radius: 10px;
+  border-radius: 1rem;
 }
 
 .cards__item__link {
@@ -46,7 +55,7 @@ h4 {
   box-shadow: 0 6px 20px rgba(111, 139, 121, 0.4);
   -webkit-filter: drop-shadow(0 6px 20px rgba(111, 139, 121, 0.4));
   filter: drop-shadow(0 6px 20px rgba(111, 139, 121, 0.4));
-  border-radius: 10px;
+  border-radius: 1rem;
   overflow: hidden;
   text-decoration: none;
 }
@@ -67,10 +76,10 @@ h4 {
   content: attr(data-category);
   position: absolute;
   bottom: 0;
-  margin-left: 10px;
-  padding: 6px 8px;
+  margin-left: 1rem;
+  padding: 0.6rem 0.8rem;
   max-width: calc((100%) - 60px);
-  font-size: 12px;
+  font-size: 1.3rem;
   font-weight: 700;
   color: #fff;
   background-color: #748859;
@@ -97,13 +106,13 @@ h4 {
 }
 
 .cards__item__info {
-  padding: 20px 30px 30px;
+  padding: 2rem;
 }
 
 .cards__item__text {
   color: #6f8b79;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.1rem;
 }
 
 @media only screen and (min-width: 1200px) {

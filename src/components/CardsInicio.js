@@ -17,7 +17,7 @@ function Cards() {
                         />
                         <CardItem 
                         src={process.env.PUBLIC_URL + '/images/pexels-must-bee-kayak.jpg'}
-                        text='En Costa Rica los visitantes encontrarán todo lo que buscan: aventura, sol, playas, bosque, vida silvestre y bienestar y mucho más.'
+                        text='En Costa Rica los visitantes encontrarán todo lo que buscan: aventura, sol, playas, bosque, vida silvestre, bienestar y mucho más.'
                         label='Actividades'
                         path='/actividades'
                         />

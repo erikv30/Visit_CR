@@ -1,10 +1,10 @@
 .navbar {
   background: #eaf0e1;
-  height: 80px;
+  height: 8rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   position: sticky;
   top: 0;
   z-index: 999;
@@ -14,30 +14,30 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80px;
+  height: 8rem;
   max-width: 1500px;
 }
 
 .navbar-logo {
   color: #748859;
   justify-self: start;
-  margin-left: 20px;
+  margin-left: 2rem;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 2.5rem;
   display: flex;
   align-items: center;
 }
 
 .fa-compass {
   margin-right: 0.5rem;
-  font-size: 1.8rem;
+  font-size: 3rem;
 }
 
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(5, auto);
-  grid-gap: 10px;
+  grid-gap: 1rem;
   list-style: none;
   text-align: center;
   width: 60vw;
@@ -59,7 +59,7 @@
 }
 
 .nav-links:hover {
-  border-bottom: 5px solid #748859;
+  border-bottom: 0.5rem solid #748859;
   transition: all 0.2s ease-out;
 }
 
@@ -86,7 +86,7 @@
     width: 100%;
     height: 90vh;
     position: absolute;
-    top: 80px;
+    top: 8rem;
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
@@ -126,7 +126,7 @@
     top: 0;
     right: 0;
     transform: translate(-100%, 60%);
-    font-size: 1.8rem;
+    font-size: 2rem;
     cursor: pointer;
   }
 
@@ -139,14 +139,14 @@
     display: block;
     text-align: center;
     margin: 2rem auto;
-    border-radius: 5px;
+    border-radius: 0.5rem;
     width: 80%;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     background-color: #eaf0e1;
     color: #748859;
-    padding: 14px 20px;
-    border: 1px solid #748859;
+    padding: 1.4rem 2rem;
+    border: 0.1rem solid #748859;
     transition: all 0.3s ease-out;
   }
 
