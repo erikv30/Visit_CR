@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/visit-cr/static/css/main.35a05199.chunk.css",
-    "main.js": "/visit-cr/static/js/main.35fe97c3.chunk.js",
-    "main.js.map": "/visit-cr/static/js/main.35fe97c3.chunk.js.map",
+    "main.css": "/visit-cr/static/css/main.25466a4c.chunk.css",
+    "main.js": "/visit-cr/static/js/main.873198a2.chunk.js",
+    "main.js.map": "/visit-cr/static/js/main.873198a2.chunk.js.map",
     "runtime-main.js": "/visit-cr/static/js/runtime-main.72cecc51.js",
     "runtime-main.js.map": "/visit-cr/static/js/runtime-main.72cecc51.js.map",
     "static/js/2.aa617212.chunk.js": "/visit-cr/static/js/2.aa617212.chunk.js",
     "static/js/2.aa617212.chunk.js.map": "/visit-cr/static/js/2.aa617212.chunk.js.map",
     "index.html": "/visit-cr/index.html",
-    "static/css/main.35a05199.chunk.css.map": "/visit-cr/static/css/main.35a05199.chunk.css.map",
+    "static/css/main.25466a4c.chunk.css.map": "/visit-cr/static/css/main.25466a4c.chunk.css.map",
     "static/js/2.aa617212.chunk.js.LICENSE.txt": "/visit-cr/static/js/2.aa617212.chunk.js.LICENSE.txt",
     "static/media/Banner.css": "/visit-cr/static/media/pexels-must-bee-kayak.cdfffde4.jpg",
     "static/media/App.css": "/visit-cr/static/media/stephanie-leblanc-JLMEZxBcXCU-unsplash.502b26c8.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.72cecc51.js",
     "static/js/2.aa617212.chunk.js",
-    "static/css/main.35a05199.chunk.css",
-    "static/js/main.35fe97c3.chunk.js"
+    "static/css/main.25466a4c.chunk.css",
+    "static/js/main.873198a2.chunk.js"
   ]
 }
