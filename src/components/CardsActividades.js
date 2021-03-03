@@ -12,7 +12,7 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src={process.env.PUBLIC_URL + '/images/lindsay-loucel-OAZNaSaExlc-unsplash.jpg'}
-                        text='Las playas de Costa Rica permite el disfrute de la playa como medio de esparcimiento, deporte y descanso.'
+                        text='Costa Rica permite el disfrute de la playa como medio de esparcimiento, deporte y descanso.'
                         label='Sol y playa'
                         />
                         <CardItem 

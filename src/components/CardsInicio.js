@@ -17,13 +17,13 @@ function Cards() {
                         />
                         <CardItem 
                         src={process.env.PUBLIC_URL + '/images/pexels-must-bee-kayak.jpg'}
-                        text='En Costa Rica los visitantes encontrarán todo lo que buscan: aventura, sol, playas, bosque, vida silvestre, bienestar y mucho más.'
+                        text='En Costa Rica encontrarás: aventura, sol, playas, bosque, vida silvestre, bienestar y mucho más.'
                         label='Actividades'
                         path='/actividades'
                         />
                          <CardItem 
                         src={process.env.PUBLIC_URL + '/images/pexels-dziana-hasanbekava-5589439.jpg'}
-                        text='Planifique su viaje: Encuentre donde hospedarse, guias turísticos, restaurantes, transporte y más...'
+                        text='Encuentre donde hospedarse, guias turísticos, restaurantes, transporte y más...'
                         label='Servicios'
                         path='/servicios'
                         />

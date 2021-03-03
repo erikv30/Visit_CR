@@ -1,11 +1,12 @@
 .cards {
-  padding: 4rem;
   background: #fff;
 }
 
 h1 {
   text-align: center;
   color: #748859;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
 }
 
 p {
@@ -38,7 +39,7 @@ p {
 }
 
 .cards__items {
-  margin-bottom: 2rem;
+  margin: 0rem;
 }
 
 .cards__item {
@@ -106,7 +107,7 @@ p {
 }
 
 .cards__item__info {
-  padding: 2rem;
+  padding: 2rem 1rem;
 }
 
 .cards__item__text {

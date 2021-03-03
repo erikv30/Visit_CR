@@ -26,7 +26,7 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src={process.env.PUBLIC_URL + '/images/taylor-franz-GJogrGZxKJE-unsplash.jpg'}
-                        text='Deleitese con los diferentes platillos y comidas típicas de Costa Rica alrededor de todo el territotio nacional.'
+                        text='Deleitese con los diferentes platillos y comidas típicas de Costa Rica.'
                         label='Restaurantes'
                         />
                         <CardItem 
